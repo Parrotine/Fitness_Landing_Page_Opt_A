@@ -1,0 +1,56 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.reset p {
+	margin: 0;
+}
+
+.header {
+	align: middle;
+}
+
+
+#left {
+	float: left;
+	padding: 0px 20px 0px 10px;
+}
+
+.section {
+	padding: 30px 10px 30px 10px;
+}
+
+.container {
+	background-color: #E3E3E3;
+}
+
+.sources {
+	padding-left: 140px;
+	padding-bottom: 50px;
+}
+
+.text {
+	text-align: center;
+}
+
+.text h1 {
+	color: #00487F;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 55px;
+	font-family: 'heroic_condensed';
+	text-transform: uppercase;
+}
+
+.box {
+	padding: 0px 10%;
+}
+
+.container .text h1 {
+	margin: 0;
+}
+
+.reset p img {
+	display: block;
+}
