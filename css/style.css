@@ -3,6 +3,10 @@ html, body {
 	padding: 0;
 }
 
+html {
+	background-color: #F4F4F4;
+}
+
 .reset p {
 	margin: 0;
 }
@@ -31,13 +35,14 @@ html, body {
 }
 
 .text {
-	text-align: center;
+	text-align: justify;
+	padding: 20px 20px 0 20px;
 }
 
 .text h1 {
 	color: #00487F;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 55px;
 	font-family: 'heroic_condensed';
 	text-transform: uppercase;
